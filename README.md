@@ -12,6 +12,7 @@ This project is intended for self-practice:beginner: on creating React component
 Design is inspired by [brittanychiang.com](https://brittanychiang.com/).
 
 ## Demo
+You can find the demo in codesandbox here: [codesandbox](https://codesandbox.io/s/github/farisnafiah/react-navbar)
 
 ## Installation
 ```
